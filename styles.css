@@ -1,0 +1,30 @@
+/* Colors */
+.bg-mustang {
+  background-color:black;
+}
+.bg-ford {
+  background-color:black;
+	color: white;
+}
+.text-light {
+  color:black;
+}
+
+/* Button */
+.btn-mustang {
+  background-color:blue;
+  color:black;
+  border: none;
+}
+.btn-mustang:hover {
+  background-color:skyblue;
+}
+
+/* Typography */
+body {
+  font-family: 'Arial', sans-serif;
+  background-color:lightgrey;
+}
+h1, h2, h3, .navbar-brand {
+  font-family: 'Georgia', serif;
+}
